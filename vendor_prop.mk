@@ -113,8 +113,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.hwc.mdpcomp.enable=true \
     persist.debug.wfd.enable=1 \
     persist.sys.wfd.virtual=0 \
-    ro.surface_flinger.max_virtual_display_dimension=4096 \
-    ro.surface_flinger.force_hwc_copy_for_virtual_displays=true \
     vendor.display.disable_rotator_split=1 \
     vendor.display.disable_skip_validate=1 \
     vendor.display.perf_hint_window=50 \
@@ -159,6 +157,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.radio.rat_on=combine \
     persist.vendor.radio.sib16_support=1 \
     persist.vendor.data.mode=concurrent
+
+# Surfaceflinger
+    ro.surface_flinger.max_virtual_display_dimension=4096 \
+    ro.surface_flinger.force_hwc_copy_for_virtual_displays=true \
+    ro.surface_flinger.max_frame_buffer_acquired_buffers=3
 
 # Time Services
 PRODUCT_PROPERTY_OVERRIDES += \
