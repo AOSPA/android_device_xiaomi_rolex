@@ -1,0 +1,39 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4b6ac0fb_8c4dca81",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 1000465
+      },
+      "writtenOn": "2020-05-18T15:36:45Z",
+      "side": 1,
+      "message": "This should be configured with ro.surface_flinger.max_virtual_display_dimension\u003d4096",
+      "parentUuid": "",
+      "revId": "62c6e143c291a06fd02b68172ec9bb705e1dbb6d",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b9040d54_3157de02",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 1000465
+      },
+      "writtenOn": "2020-05-18T15:36:45Z",
+      "side": 1,
+      "message": "And this with ro.surface_flinger.force_hwc_copy_for_virtual_displays\u003dtrue",
+      "revId": "62c6e143c291a06fd02b68172ec9bb705e1dbb6d",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": true
+    }
+  ]
+}
