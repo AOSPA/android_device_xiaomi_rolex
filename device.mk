@@ -272,6 +272,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     ParanoidDoze
 
+# Perf
+PRODUCT_COPY_FILES += \
+    $(DEVICE_PATH)/configs/perf/perfconfigstore.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perfconfigstore.xml
+
 # Power
 PRODUCT_PACKAGES += \
     android.hardware.power@1.2-service
