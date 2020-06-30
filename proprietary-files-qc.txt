@@ -292,27 +292,27 @@ vendor/lib/hw/sound_trigger.primary.msm8937.so|305f7f8ba1ab05c464ef669cfaa6e5bd3
 vendor/lib/libadpcmdec.so|be5fdf08a08b635816381e61b6bbf2874c62f613
 vendor/lib/libsmwrapper.so|1ab31b5378265784145defa47d50435029cf5f57
 
-# Media - from daisy - QKQ1.191002.002 V11.0.2.0.QDLMIXM
+# Media - from olive - QKQ1.191014.001-V11.0.1.0.QCNCNXM
 -vendor/lib/libgpustats.so|75fc8f58b071f3c27d708010e1b40eafba091a14
-vendor/lib/libOmxAacDec.so|55772a6d0cf3e6a5a2c32348fd7096b8737d490b
-vendor/lib/libOmxAlacDec.so|adca064b15a7d545075af6f5222db45dec8202b5
-vendor/lib/libOmxAlacDecSw.so|8700268f92a953549e5936af9d5ccd08f99ed50f
-vendor/lib/libOmxAmrDec.so|61ca4a96027a610b74621bd3f9caff3f34e4eab5
-vendor/lib/libOmxAmrwbplusDec.so|f0ebf6b19f569862fa8da05653148e867ba38878
-vendor/lib/libOmxApeDec.so|49b4090d2f82963e596dd2fabb30b7fe8551a21b
-vendor/lib/libOmxApeDecSw.so|d1276d42ad37fbd263ab96f9f353d4e782bb0fe9
-vendor/lib/libOmxEvrcDec.so|20a6be418df26f48751b4178f5642e3fc6902690
-vendor/lib/libOmxQcelp13Dec.so|27a75185e62e88ea84ac2448a3842c998899ae90
-vendor/lib/libOmxVpp.so|46e4928c392716943986a3b490680d3e08fdf3e4
-vendor/lib/libOmxWmaDec.so|c3da756ae14234ae8e56cbc0b32249fbd4c8746a
-vendor/lib/libvpplibrary.so|816a79fe9a6d30e9402acb767119b9ee1c2c8aea
-vendor/lib/libvqzip.so|24e5eb30e5a2cdb544c8688d81d7cc75a1d85eaf
-vendor/lib/libI420colorconvert.so|0dfd4d0e49f4250e98e781483048a296a679e05e
-vendor/lib/libOmxDsdDec.so|57760dbfd7098d5f1c1c8fb12973f715ba30aac6
-vendor/lib/libOmxG711Dec.so|da79b377947eeeb843b028ac3272a81f2be6a5f1
-vendor/lib/libOmxVideoDSMode.so|84a6b99f5ad0c7dbe827eb01258cca4c790c0fe7
-vendor/lib/libmm-color-convertor.so|7c74d36d42dc79fc58afe0f4323b76cc1297d36e
-vendor/lib/libmmosal_proprietary.so|4b0788590e1ecfccd3b20b3181a4add528acb2b6
+vendor/lib/libOmxAacDec.so|1a64362a3a975ac9855c88d33996202bd7cef370
+vendor/lib/libOmxAlacDec.so|8c6c93af1394a7e8f5906c19b7c98c8ff9ac4b8d
+vendor/lib/libOmxAlacDecSw.so|fe81e5f48baf14a2f3f211c8c634ef1460b9b0c4
+vendor/lib/libOmxAmrDec.so|0ee066a6e89c0fea996d53db3e53a9887a72f690
+vendor/lib/libOmxAmrwbplusDec.so|c07ee2170d75c5667b6c5416a229175355a5e11b
+vendor/lib/libOmxApeDec.so|c1dfdb3e419b90ce2734d658eaebe350764af7f0
+vendor/lib/libOmxApeDecSw.so|42042a550fab95ead35888cad701693016e8970b
+vendor/lib/libOmxEvrcDec.so|7fcefe95fa7c56fa8988e3f5281ac7632156169f
+vendor/lib/libOmxQcelp13Dec.so|0299cb89244e518539398af889178b6ac6c8c231
+vendor/lib/libOmxVpp.so|c4e93a621f48023fdb659e3861d9e1018bcaddee
+vendor/lib/libOmxWmaDec.so|7407b0da66c923b2d6a65e307eae4b4834ef40f9
+vendor/lib/libvpplibrary.so|c84db8f7a1018757892659acf9ed158a43f9b161
+vendor/lib/libvqzip.so|1b1015980361f95e3f60b54b4e386339a3212fc1
+vendor/lib/libI420colorconvert.so|2a8c0624f43be3004b75fecf2abaf2f49018e309
+vendor/lib/libOmxDsdDec.so|6ed7c4b9b48b001a4ba01e2349d5401b73e31c68
+vendor/lib/libOmxG711Dec.so|8bb9da39f3424dd4c07aee2ab20e835b0aac1f58
+vendor/lib/libOmxVideoDSMode.so|d3e550a0d485ec3b66cdbbf348c409eac800ecb2
+vendor/lib/libmm-color-convertor.so|c51a49b70612cef25aac145a95a5072f4a17fb03
+vendor/lib/libmmosal_proprietary.so|ba8ad81125a8c64795355586809330f9aed91b27
 -vendor/lib64/libgpustats.so|a899ae72983277442cdacf8f43271986c91ce710
 
 # Media OMX - from TA-1025_00WW 8.1.0 OPR1.170623.026
